@@ -1,3 +1,1 @@
-# Fabric Advisor
-
-A simple Next.js project with TailwindCSS.
+# Fabric Advisor (ready)\n\nSimple Next.js app with an API route. Deploy to Vercel or run locally.
