@@ -1,0 +1,686 @@
+[
+  {
+    "name": "Katun Combed 30s",
+    "category": "natural",
+    "texture": "halus",
+    "traits": {
+      "breathability": 3,
+      "warmth": 1,
+      "thickness": 1,
+      "elasticity": 1,
+      "durability": 2,
+      "luxury": 1
+    },
+    "use": [
+      "Kaos",
+      "Kemeja",
+      "Seragam"
+    ],
+    "care": "easy",
+    "flags": {
+      "waterproof": false,
+      "wrinkleResist": false
+    },
+    "priceRange": [
+      35000,
+      70000
+    ],
+    "note": "Adem, nyaman untuk iklim tropis, cocok daily wear."
+  },
+  {
+    "name": "Katun Oxford",
+    "category": "natural",
+    "texture": "beras/ bertekstur halus",
+    "traits": {
+      "breathability": 3,
+      "warmth": 1,
+      "thickness": 2,
+      "elasticity": 1,
+      "durability": 3,
+      "luxury": 1
+    },
+    "use": [
+      "Kemeja",
+      "Seragam",
+      "Blazer/ Jas"
+    ],
+    "care": "normal",
+    "flags": {
+      "waterproof": false,
+      "wrinkleResist": false
+    },
+    "priceRange": [
+      60000,
+      120000
+    ],
+    "note": "Struktur rapi untuk kemeja, tetap adem."
+  },
+  {
+    "name": "Linen",
+    "category": "natural",
+    "texture": "kasar-halus alami",
+    "traits": {
+      "breathability": 3,
+      "warmth": 1,
+      "thickness": 1,
+      "elasticity": 0,
+      "durability": 2,
+      "luxury": 2
+    },
+    "use": [
+      "Kemeja",
+      "Blouse",
+      "Gaun/ Dress",
+      "Blazer/ Jas"
+    ],
+    "care": "normal",
+    "flags": {
+      "waterproof": false,
+      "wrinkleResist": 0
+    },
+    "priceRange": [
+      120000,
+      280000
+    ],
+    "note": "Sangat adem untuk tropis; mudah kusut (karakter linen)."
+  },
+  {
+    "name": "Rayon/ Viscose",
+    "category": "regenerated",
+    "texture": "sangat lembut, jatuh",
+    "traits": {
+      "breathability": 3,
+      "warmth": 1,
+      "thickness": 1,
+      "elasticity": 1,
+      "durability": 1,
+      "luxury": 2
+    },
+    "use": [
+      "Blouse",
+      "Gaun/ Dress",
+      "Rok"
+    ],
+    "care": "delicate",
+    "flags": {
+      "waterproof": false,
+      "wrinkleResist": 0
+    },
+    "priceRange": [
+      45000,
+      110000
+    ],
+    "note": "Drape bagus, sejuk; perawatan lembut."
+  },
+  {
+    "name": "Tencel/ Lyocell",
+    "category": "regenerated",
+    "texture": "lembut premium, jatuh",
+    "traits": {
+      "breathability": 3,
+      "warmth": 1,
+      "thickness": 1,
+      "elasticity": 1,
+      "durability": 2,
+      "luxury": 3
+    },
+    "use": [
+      "Kemeja",
+      "Blouse",
+      "Gaun/ Dress"
+    ],
+    "care": "delicate",
+    "flags": {
+      "waterproof": false,
+      "wrinkleResist": 1
+    },
+    "priceRange": [
+      150000,
+      350000
+    ],
+    "note": "Lebih mewah dari rayon, adem dan ramah kulit."
+  },
+  {
+    "name": "Modal",
+    "category": "regenerated",
+    "texture": "sangat lembut, elastis",
+    "traits": {
+      "breathability": 3,
+      "warmth": 1,
+      "thickness": 1,
+      "elasticity": 2,
+      "durability": 2,
+      "luxury": 2
+    },
+    "use": [
+      "Kaos",
+      "Blouse"
+    ],
+    "care": "delicate",
+    "flags": {
+      "waterproof": false,
+      "wrinkleResist": 1
+    },
+    "priceRange": [
+      90000,
+      200000
+    ],
+    "note": "Nyaman, adem, cocok kaos premium."
+  },
+  {
+    "name": "Polyester",
+    "category": "synthetic",
+    "texture": "halus",
+    "traits": {
+      "breathability": 1,
+      "warmth": 1,
+      "thickness": 1,
+      "elasticity": 1,
+      "durability": 3,
+      "luxury": 1
+    },
+    "use": [
+      "Olahraga/ Athleisure",
+      "Seragam",
+      "Hoodie/ Sweater"
+    ],
+    "care": "easy",
+    "flags": {
+      "waterproof": false,
+      "wrinkleResist": 1
+    },
+    "priceRange": [
+      30000,
+      90000
+    ],
+    "note": "Awet, cepat kering, tak mudah kusut; kurang adem."
+  },
+  {
+    "name": "Jersey (Cotton/ Poly Blend)",
+    "category": "blend",
+    "texture": "elastis, rajut",
+    "traits": {
+      "breathability": 2,
+      "warmth": 1,
+      "thickness": 1,
+      "elasticity": 3,
+      "durability": 2,
+      "luxury": 1
+    },
+    "use": [
+      "Kaos",
+      "Olahraga/ Athleisure"
+    ],
+    "care": "easy",
+    "flags": {
+      "waterproof": false,
+      "wrinkleResist": 1
+    },
+    "priceRange": [
+      45000,
+      120000
+    ],
+    "note": "Stretch dan nyaman; ideal activewear ringan."
+  },
+  {
+    "name": "Spandex/ Elastane",
+    "category": "synthetic",
+    "texture": "sangat elastis",
+    "traits": {
+      "breathability": 1,
+      "warmth": 1,
+      "thickness": 1,
+      "elasticity": 3,
+      "durability": 2,
+      "luxury": 1
+    },
+    "use": [
+      "Olahraga/ Athleisure"
+    ],
+    "care": "easy",
+    "flags": {
+      "waterproof": false,
+      "wrinkleResist": 1
+    },
+    "priceRange": [
+      60000,
+      150000
+    ],
+    "note": "Biasanya campuran untuk menambah stretch."
+  },
+  {
+    "name": "Denim",
+    "category": "cotton twill",
+    "texture": "twill, kaku-awal",
+    "traits": {
+      "breathability": 1,
+      "warmth": 2,
+      "thickness": 3,
+      "elasticity": 1,
+      "durability": 3,
+      "luxury": 1
+    },
+    "use": [
+      "Celana",
+      "Jaket Fashion"
+    ],
+    "care": "normal",
+    "flags": {
+      "waterproof": false,
+      "wrinkleResist": 1
+    },
+    "priceRange": [
+      80000,
+      250000
+    ],
+    "note": "Tahan lama, cocok celana & jaket kasual."
+  },
+  {
+    "name": "Corduroy",
+    "category": "cotton pile",
+    "texture": "berbulu wales (garis)",
+    "traits": {
+      "breathability": 1,
+      "warmth": 3,
+      "thickness": 3,
+      "elasticity": 1,
+      "durability": 3,
+      "luxury": 2
+    },
+    "use": [
+      "Celana",
+      "Jaket Fashion",
+      "Blazer/ Jas"
+    ],
+    "care": "normal",
+    "flags": {
+      "waterproof": false,
+      "wrinkleResist": 1
+    },
+    "priceRange": [
+      100000,
+      240000
+    ],
+    "note": "Hangat, tekstur klasik untuk musim sejuk."
+  },
+  {
+    "name": "Suede (Genuine)",
+    "category": "leather",
+    "texture": "nap/ beludru alami",
+    "traits": {
+      "breathability": 1,
+      "warmth": 2,
+      "thickness": 2,
+      "elasticity": 0,
+      "durability": 3,
+      "luxury": 3
+    },
+    "use": [
+      "Jaket Fashion",
+      "Sepatu/ Aksesoris"
+    ],
+    "care": "delicate",
+    "flags": {
+      "waterproof": false,
+      "wrinkleResist": 1
+    },
+    "priceRange": [
+      350000,
+      900000
+    ],
+    "note": "Mewah, perlu perawatan khusus (hindari air)."
+  },
+  {
+    "name": "Microsuede (Synthetic Suede)",
+    "category": "synthetic",
+    "texture": "beludru sintetis",
+    "traits": {
+      "breathability": 1,
+      "warmth": 2,
+      "thickness": 2,
+      "elasticity": 1,
+      "durability": 2,
+      "luxury": 2
+    },
+    "use": [
+      "Jaket Fashion",
+      "Rok"
+    ],
+    "care": "normal",
+    "flags": {
+      "waterproof": false,
+      "wrinkleResist": 1
+    },
+    "priceRange": [
+      90000,
+      220000
+    ],
+    "note": "Alternatif suede, lebih mudah dirawat."
+  },
+  {
+    "name": "Velvet",
+    "category": "pile",
+    "texture": "beludru mengkilap",
+    "traits": {
+      "breathability": 1,
+      "warmth": 2,
+      "thickness": 2,
+      "elasticity": 1,
+      "durability": 2,
+      "luxury": 3
+    },
+    "use": [
+      "Gaun/ Dress",
+      "Blazer/ Jas"
+    ],
+    "care": "delicate",
+    "flags": {
+      "waterproof": false,
+      "wrinkleResist": 0
+    },
+    "priceRange": [
+      120000,
+      350000
+    ],
+    "note": "Kesan mewah & pesta."
+  },
+  {
+    "name": "Satin (Poly/ Silk)",
+    "category": "weave",
+    "texture": "licin, berkilau",
+    "traits": {
+      "breathability": 1,
+      "warmth": 1,
+      "thickness": 1,
+      "elasticity": 1,
+      "durability": 2,
+      "luxury": 3
+    },
+    "use": [
+      "Gaun/ Dress",
+      "Blouse",
+      "Rok"
+    ],
+    "care": "delicate",
+    "flags": {
+      "waterproof": false,
+      "wrinkleResist": 1
+    },
+    "priceRange": [
+      60000,
+      400000
+    ],
+    "note": "Elegan untuk gaun/ formal."
+  },
+  {
+    "name": "Chiffon",
+    "category": "sheer",
+    "texture": "sangat ringan, tembus",
+    "traits": {
+      "breathability": 3,
+      "warmth": 0,
+      "thickness": 0,
+      "elasticity": 1,
+      "durability": 1,
+      "luxury": 2
+    },
+    "use": [
+      "Gaun/ Dress",
+      "Blouse"
+    ],
+    "care": "delicate",
+    "flags": {
+      "waterproof": false,
+      "wrinkleResist": 0
+    },
+    "priceRange": [
+      40000,
+      180000
+    ],
+    "note": "Ringan dan flowing (layering)."
+  },
+  {
+    "name": "Wool",
+    "category": "animal fiber",
+    "texture": "hangat, bisa gatal",
+    "traits": {
+      "breathability": 2,
+      "warmth": 3,
+      "thickness": 2,
+      "elasticity": 1,
+      "durability": 3,
+      "luxury": 3
+    },
+    "use": [
+      "Hoodie/ Sweater",
+      "Blazer/ Jas",
+      "Jaket Fashion"
+    ],
+    "care": "delicate",
+    "flags": {
+      "waterproof": false,
+      "wrinkleResist": 1
+    },
+    "priceRange": [
+      250000,
+      800000
+    ],
+    "note": "Insulasi sangat baik, cocok cuaca dingin."
+  },
+  {
+    "name": "Fleece (Poly)",
+    "category": "synthetic pile",
+    "texture": "bulu sintetis, hangat",
+    "traits": {
+      "breathability": 2,
+      "warmth": 3,
+      "thickness": 2,
+      "elasticity": 1,
+      "durability": 2,
+      "luxury": 1
+    },
+    "use": [
+      "Hoodie/ Sweater",
+      "Jaket Outdoor"
+    ],
+    "care": "easy",
+    "flags": {
+      "waterproof": false,
+      "wrinkleResist": 1
+    },
+    "priceRange": [
+      70000,
+      180000
+    ],
+    "note": "Hangat, ringan, cepat kering."
+  },
+  {
+    "name": "Nylon Ripstop",
+    "category": "synthetic",
+    "texture": "tenun anti sobek",
+    "traits": {
+      "breathability": 1,
+      "warmth": 1,
+      "thickness": 1,
+      "elasticity": 1,
+      "durability": 3,
+      "luxury": 1
+    },
+    "use": [
+      "Jaket Outdoor"
+    ],
+    "care": "easy",
+    "flags": {
+      "waterproof": true,
+      "wrinkleResist": 1
+    },
+    "priceRange": [
+      90000,
+      220000
+    ],
+    "note": "Ringan, kuat, tahan air (coated)."
+  },
+  {
+    "name": "Softshell",
+    "category": "technical",
+    "texture": "halus, sedikit stretch",
+    "traits": {
+      "breathability": 2,
+      "warmth": 2,
+      "thickness": 2,
+      "elasticity": 2,
+      "durability": 3,
+      "luxury": 1
+    },
+    "use": [
+      "Jaket Outdoor"
+    ],
+    "care": "easy",
+    "flags": {
+      "waterproof": true,
+      "wrinkleResist": 1
+    },
+    "priceRange": [
+      160000,
+      350000
+    ],
+    "note": "Outdoor serbaguna: angin & gerimis tahan."
+  },
+  {
+    "name": "Gabardine (Wool/ Poly)",
+    "category": "twill",
+    "texture": "twill rapat, rapi",
+    "traits": {
+      "breathability": 2,
+      "warmth": 2,
+      "thickness": 2,
+      "elasticity": 1,
+      "durability": 3,
+      "luxury": 2
+    },
+    "use": [
+      "Blazer/ Jas",
+      "Celana",
+      "Seragam"
+    ],
+    "care": "normal",
+    "flags": {
+      "waterproof": false,
+      "wrinkleResist": 1
+    },
+    "priceRange": [
+      120000,
+      300000
+    ],
+    "note": "Struktur rapi untuk tailoring."
+  },
+  {
+    "name": "Poplin",
+    "category": "plain weave",
+    "texture": "halus, rapat",
+    "traits": {
+      "breathability": 2,
+      "warmth": 1,
+      "thickness": 1,
+      "elasticity": 0,
+      "durability": 2,
+      "luxury": 1
+    },
+    "use": [
+      "Kemeja",
+      "Seragam"
+    ],
+    "care": "easy",
+    "flags": {
+      "waterproof": false,
+      "wrinkleResist": 0
+    },
+    "priceRange": [
+      50000,
+      140000
+    ],
+    "note": "Kemeja rapi, ringan."
+  },
+  {
+    "name": "Chambray",
+    "category": "plain weave",
+    "texture": "mirip denim ringan",
+    "traits": {
+      "breathability": 2,
+      "warmth": 1,
+      "thickness": 1,
+      "elasticity": 0,
+      "durability": 2,
+      "luxury": 1
+    },
+    "use": [
+      "Kemeja",
+      "Blouse"
+    ],
+    "care": "easy",
+    "flags": {
+      "waterproof": false,
+      "wrinkleResist": 0
+    },
+    "priceRange": [
+      60000,
+      160000
+    ],
+    "note": "Casual look denim-like yang adem."
+  },
+  {
+    "name": "Canvas (Cotton)",
+    "category": "plain weave heavy",
+    "texture": "kasar, tebal, kuat",
+    "traits": {
+      "breathability": 1,
+      "warmth": 2,
+      "thickness": 3,
+      "elasticity": 0,
+      "durability": 3,
+      "luxury": 1
+    },
+    "use": [
+      "Jaket Fashion",
+      "Celana",
+      "Outer utilitarian"
+    ],
+    "care": "normal",
+    "flags": {
+      "waterproof": false,
+      "wrinkleResist": 1
+    },
+    "priceRange": [
+      80000,
+      180000
+    ],
+    "note": "Kuat, kokoh, utilitarian."
+  },
+  {
+    "name": "Neoprene/ Scuba",
+    "category": "foam synthetic",
+    "texture": "tebal, kenyal",
+    "traits": {
+      "breathability": 0,
+      "warmth": 2,
+      "thickness": 3,
+      "elasticity": 2,
+      "durability": 2,
+      "luxury": 1
+    },
+    "use": [
+      "Fashion struktural",
+      "Jaket Fashion"
+    ],
+    "care": "normal",
+    "flags": {
+      "waterproof": true,
+      "wrinkleResist": 1
+    },
+    "priceRange": [
+      150000,
+      400000
+    ],
+    "note": "Volume & struktur, tahan air."
+  }
+]
